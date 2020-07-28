@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Redis_POC_API", "Redis_POC_API\Redis_POC_API.csproj", "{69E09513-5ED7-475D-9BB1-8EDB9D15F60B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69E09513-5ED7-475D-9BB1-8EDB9D15F60B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69E09513-5ED7-475D-9BB1-8EDB9D15F60B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69E09513-5ED7-475D-9BB1-8EDB9D15F60B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69E09513-5ED7-475D-9BB1-8EDB9D15F60B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D8430B0-D0D2-460E-9F17-3616241E1A9B}
+	EndGlobalSection
+EndGlobal
